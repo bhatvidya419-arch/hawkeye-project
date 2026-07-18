@@ -1,4 +1,4 @@
-# hawkeye-project
+# hawkeye-analysis
 
 # Comprehensive Analysis of the HawkEye Lab
 
